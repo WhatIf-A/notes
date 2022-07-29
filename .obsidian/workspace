@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "d618a15ff7800527",
+    "type": "split",
+    "children": [
+      {
+        "id": "074d8b095989e5f1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "409af905c9a6147e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c06389a2b30f5a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca595678524bf4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa3a5eb7f34d6693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80751c6cae3f1de9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a7e52518930b38e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3216ae21c727354e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33adc65f372d8f2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4956449bef2e5a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bac33b209596d6f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67471a084a083471",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "074d8b095989e5f1",
+  "lastOpenFiles": [
+    "开发相关/数据库/SQL/读书笔记/《SQL进阶教程》/CASE 表达式.md",
+    "未命名.md",
+    "编程相关/数据库/SQL/读书笔记/《SQL进阶教程》/《SQL进阶教程》.md",
+    "2022-07-28.md",
+    "未命名/未命名/未命名/未命名.md",
+    "未命名/未命名/未命名/未命名 1.md",
+    "2022-07-27.md",
+    "2022-07-26.md"
+  ]
+}
