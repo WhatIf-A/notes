@@ -1,4 +1,13 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US",
+    "en-GB"
+  ],
+  "strictLineBreaks": false
 }
