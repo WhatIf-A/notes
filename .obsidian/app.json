@@ -9,5 +9,14 @@
     "en-US",
     "en-GB"
   ],
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "rightToLeft": false
 }
