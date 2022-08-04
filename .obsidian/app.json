@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "附件",
   "showFrontmatter": true,
   "showLineNumber": true,
   "spellcheck": true,
@@ -18,5 +18,6 @@
     "downscalePercent": 100
   },
   "readableLineLength": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
 }
