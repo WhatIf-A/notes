@@ -9,7 +9,7 @@
     "en-US",
     "en-GB"
   ],
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "fileSortOrder": "alphabetical",
   "pdfExportSettings": {
     "pageSize": "A4",
