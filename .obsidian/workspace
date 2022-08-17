@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "42812844deab8451",
+        "id": "a027a84d34d1ff2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "开发相关/编程相关/后端/Java/读书笔记/基础/《Java 8 函数式编程》/3.高级集合类和收集器.md",
+            "file": "开发相关/编程相关/架构设计/设计模式/读书笔记/《设计模式之美》/创造型设计模式/单例模式/1.Singleton Design Pattern.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发相关/编程相关/后端/Java/读书笔记/基础/《Java 8 函数式编程》/3.高级集合类和收集器.md",
+                "file": "开发相关/编程相关/架构设计/设计模式/读书笔记/《设计模式之美》/创造型设计模式/单例模式/1.Singleton Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发相关/编程相关/后端/Java/读书笔记/基础/《Java 8 函数式编程》/3.高级集合类和收集器.md",
+                "file": "开发相关/编程相关/架构设计/设计模式/读书笔记/《设计模式之美》/创造型设计模式/单例模式/1.Singleton Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发相关/编程相关/后端/Java/读书笔记/基础/《Java 8 函数式编程》/3.高级集合类和收集器.md"
+                "file": "开发相关/编程相关/架构设计/设计模式/读书笔记/《设计模式之美》/创造型设计模式/单例模式/1.Singleton Design Pattern.md"
               }
             }
           }
@@ -129,10 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42812844deab8451",
+  "active": "a027a84d34d1ff2d",
   "lastOpenFiles": [
-    "开发相关/编程相关/后端/Netty/《API 网关》/1.第一章：HTTP请求会话协议处理.md",
     "开发相关/编程相关/后端/Java/读书笔记/基础/《Java 8 函数式编程》/3.高级集合类和收集器.md",
+    "开发相关/编程相关/后端/Netty/《API 网关》/1.第一章：HTTP请求会话协议处理.md",
     "开发相关/编程相关/后端/Java/读书笔记/基础/《Java 8 函数式编程》/2.流.md",
     "开发相关/编程相关/后端/Java/读书笔记/基础/《Java 8 函数式编程》/1.函数式接口.md",
     "开发相关/编程相关/后端/Java/读书笔记/基础/Java 8 Stream.md",
